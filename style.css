@@ -1,0 +1,29 @@
+img{
+  margin-right: 100px;
+}
+div{
+  background-color:blue;
+  color:white;
+}
+.bg-1{
+  background-color: white;
+}
+h6{
+  color:white;
+}
+marquee{
+  background-color: yellow;
+  width:87%;
+  font-size:20px;
+  font-style: oblique;
+}
+p{
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+  background-color: green;
+  color:white;
+}
+.table{
+  background-color: orange;
+}
